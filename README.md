@@ -1,6 +1,8 @@
 # U-net
 created a U-net for semantic segmentation task 
 
+![U-Net Architecture](https://b2633864.smushcdn.com/2633864/wp-content/uploads/2022/02/1_unet_architecture_paper-1024x569.png?lossy=2&strip=1&webp=1)
+
 # U-Net Model Implementation with TensorFlow on Pet Dataset
 
 This repository contains a Jupyter Notebook (`ipynb`) that demonstrates the implementation of a U-Net model using TensorFlow. The model is trained on the Pet Dataset from TensorFlow Datasets (TFDS), which consists of images of cats and dogs. The notebook preprocesses the images by resizing them to 128x128 pixels to match the input size expected by the U-Net model.
@@ -21,6 +23,3 @@ This will execute the code for loading the dataset, preprocessing the images, de
 - TensorFlow Datasets (TFDS)
 - Jupyter Notebook
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
